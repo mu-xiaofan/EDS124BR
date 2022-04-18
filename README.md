@@ -11,3 +11,6 @@
 
 #A mouse drawing octagon
 #https://youtu.be/YbiTzepvsrY
+
+#Monkey and banana
+#https://youtu.be/Ye-0gTH3k_8
