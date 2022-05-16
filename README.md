@@ -17,3 +17,6 @@
 
 #Draw shapes
 #https://youtu.be/bnzYoFBaMgw
+
+#Swimming penguin
+#https://youtu.be/gnZDLv6SEYM
